@@ -1,7 +1,16 @@
 ---
-title: "nberry18.github.io"
+title: "Nina Berry"
+image: ""
+toc: false
+about:
+    template: jolla
+    image-width: 17mm
+links: 
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/ninaberry1822/
+    - text: Email
+      href: ninadkberry@gmail.com
+
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This is where my bio will go!
